@@ -1,0 +1,95 @@
+{
+  "QUIZ_TITLE": "Biology General MCQs Set -1",
+  "QUESTIONS_ARRAY": [
+    {
+      "1": "7.4",
+      "2": "7.2",
+      "3": "0",
+      "4": "8",
+      "q": "What is the Ph value of human blood?",
+      "a": 1,
+      "u": 0
+    },
+    {
+      "1": "O negative",
+      "2": "B negative",
+      "3": "AB positive",
+      "4": "AB negative",
+      "q": "The rarest blood group is __.",
+      "a": 4,
+      "u": 0
+    },
+    {
+      "1": "Copper",
+      "2": "Calcium",
+      "3": "Iron",
+      "4": "Aluminum",
+      "q": "The metal present in the hemoglobin is _____________.",
+      "a": 3,
+      "u": 0
+    },
+    {
+      "1": "Devonian",
+      "2": "Crustaceous",
+      "3": "Ordovician",
+      "4": "Silurian",
+      "q": "The age of fishes was known as __.",
+      "a": 1,
+      "u": 0
+    },
+    {
+      "1": "Calcium",
+      "2": "Aluminum",
+      "3": "Zinc",
+      "4": "Magnesium",
+      "q": "The metal present in the chlorophyll is __.",
+      "a": 4,
+      "u": 0
+    },
+    {
+      "1": "Lactose",
+      "2": "Fructose",
+      "3": "Maltose",
+      "4": "Sucrose",
+      "q": "The important sugar in honey is _________.",
+      "a": 2,
+      "u": 0
+    },
+    {
+      "1": "23",
+      "2": "48",
+      "3": "46",
+      "4": "24",
+      "q": "The number of chromosomes in the human gene is __.",
+      "a": 3,
+      "u": 0
+    },
+    {
+      "1": "Grapes",
+      "2": "Pine Apple",
+      "3": "Orange",
+      "4": "Strawberry",
+      "q": "Viticulture is related to __________.",
+      "a": 1,
+      "u": 0
+    },
+    {
+      "1": "Citric Acid",
+      "2": "Acetic Acid",
+      "3": "Oxalic Acid",
+      "4": "Malic Acid",
+      "q": "Which of the following acid present in Vinegar?",
+      "a": 2,
+      "u": 0
+    },
+    {
+      "1": "Spinal Cord",
+      "2": "Humerus",
+      "3": "Fibula",
+      "4": "Femur",
+      "q": "The longest and largest bone in the human body is __.",
+      "a": 4,
+      "u": 0
+    }
+  ]
+}
